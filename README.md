@@ -1,7 +1,7 @@
 # ttv-yt-arbitration
-a bot to arbitrate twitch clips to youtube in a compilation format
+a bot to arbitrate twitch clips to youtube in a compilation format.
 
-currently on hold due to the rapid decline of twitch, will keep an eye out
+currently on hold due to the rapid decline of twitch, will keep an eye out.
 
 few to many key information files and folder structures are missing to prevent ease of use from you scallywags but could be easily reverse engineered.
 
